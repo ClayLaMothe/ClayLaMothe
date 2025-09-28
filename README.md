@@ -1,4 +1,4 @@
-I believe I enjoy coding and computers. Or at least I enjoy the rabbit holes.
+I believe I enjoy coding and computers. Or at least I enjoy the rabbit holes. Interested in learning and contributing.
 
 <!--
 **ClayLaMothe/ClayLaMothe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
